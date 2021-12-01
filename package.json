@@ -1,0 +1,25 @@
+{
+  "name": "npm-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandsesha/node-npm-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandsesha/node-npm-practice/issues"
+  },
+  "homepage": "https://github.com/anandsesha/node-npm-practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
